@@ -10,4 +10,6 @@ To execute this project just type nodemon server.js
 
 Screenshots are attached below:
 
-<img src="screenshots/1_ArtistsActivity.png" height="400" alt="Screenshot"/> <img src=“screenshots/2_AlbumsActivity.png" height="400" alt="Screenshot"/>
+<img src="Screenshot/Screenshot (26).png" height="400" alt="Screenshot"/> 
+
+<img src="Screenshot/Screenshot (27).png" height="400" alt="Screenshot"/> 
